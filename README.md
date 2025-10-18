@@ -25,8 +25,8 @@ x, which is a one-dimensional array used to store the solutions.
 ```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: ENBANATHAN V
-RegisterNumber: 212224220027
+Developed by: A.RAFSHAAN AHMED
+RegisterNumber: 212224230214
 */
 import numpy as np
 import sys
